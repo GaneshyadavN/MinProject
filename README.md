@@ -40,7 +40,7 @@ This project is a web application developed using vite.js for the frontend and N
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/PuneethKumarNL/map-view]
+    git clone [https://github.com/GaneshYadavN/map-view]
     cd [map-view]
     ```
 
